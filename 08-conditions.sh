@@ -1,5 +1,5 @@
 #!/bin/bash
-NUMBER=$1
+NUMBER=777
 # -gt, -lt, -eq, -ge, -le
 if [$NUMBER -gt 100]
 then
